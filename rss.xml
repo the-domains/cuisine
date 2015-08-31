@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Cuisine]]></title>
         <description><![CDATA[Cuisine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cuisine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 31 Aug 2015 21:31:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 31 Aug 2015 21:31:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cuisine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://lh3.googleusercontent.com/T5JR2qfnh-jPpsmpaofmXyq19cHxHbi2wiBTqwqgDewq=w1384-h778-no">]]></description>
+            <link>https://thegrid.ai/cuisine/9e74eac4-f9a5-4f48-b222-abe2f9a80ea6/index.html</link>
+            <guid isPermaLink="false">9e74eac4-f9a5-4f48-b222-abe2f9a80ea6</guid>
+            <pubDate>Mon, 31 Aug 2015 21:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://lh3.googleusercontent.com/LE1k2i08Vv_TTBm8XJoeDQ6EkosYG-tXGdIxrw-hzEs=w1384-h778-no">]]></description>
-            <link>undefined9c6040b9-c068-4d78-ba5a-d991b0ba130d/index.html</link>
+            <link>https://thegrid.ai/cuisine/9c6040b9-c068-4d78-ba5a-d991b0ba130d/index.html</link>
             <guid isPermaLink="false">9c6040b9-c068-4d78-ba5a-d991b0ba130d</guid>
             <pubDate>Mon, 31 Aug 2015 21:30:59 GMT</pubDate>
         </item>
