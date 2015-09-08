@@ -1,7 +1,14 @@
 color:
-  brandColors: []
+  brandColors:
+    - '#C8C8A0'
+    - '#586028'
+    - '#889060'
+    - '#E04030'
+    - '#E86850'
   brandStrength: 0.5
   lightness: 0.5
   rhythmicContrast: 0.5
   saturation: 0.5
+layout_spectrum: 0.796875
 name: Cuisine
+typography_spectrum: 0.098437
