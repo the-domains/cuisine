@@ -6,9 +6,9 @@ color:
     - '#E04030'
     - '#E86850'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0
   rhythmicContrast: 0.5
   saturation: 0.5
 layout_spectrum: 0.796875
 name: Cuisine
-typography_spectrum: 0.129687
+typography_spectrum: 0.098437
