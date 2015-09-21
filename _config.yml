@@ -7,7 +7,7 @@ color:
     - '#E86850'
   brandStrength: 0.5
   lightness: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.615625
   saturation: 0.5
 layout_spectrum: 0.796875
 name: Cuisine
