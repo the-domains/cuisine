@@ -8,7 +8,7 @@ color:
     - '#000000'
   brandStrength: 0
   lightness: 1
-  rhythmicContrast: 0.506578
+  rhythmicContrast: 1
   saturation: 1
 cta: {}
 layout_spectrum: 1
