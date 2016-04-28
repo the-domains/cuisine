@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#B8BDC3'
-    - '#9E6A42'
-    - '#665E30'
-    - '#87919A'
-    - '#584622'
-  brandStrength: 0
-  lightness: 1
-  rhythmicContrast: 1
-  saturation: 1
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  brandStrength: 0.6714994485955685
+  lightness: 0.22638195636682212
+  rhythmicContrast: 0.206957170041278
+  saturation: 0.805222091730684
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0.8900890725199133
 name: Cuisine
 opengraph: {}
 purpose: []
-typography_spectrum: 0.43066
+typography_spectrum: 0.7198402653448284
