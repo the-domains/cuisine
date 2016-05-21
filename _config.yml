@@ -1,4 +1,19 @@
-analytics: {}
+name: Cuisine
+favicon: null
+layout_spectrum: 0.8900890725199133
+typography_spectrum: 0.7198402653448284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F7F2B2'
@@ -6,13 +21,8 @@ color:
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
-  brandStrength: 0.6714994485955685
-  lightness: 0.22638195636682212
-  rhythmicContrast: 0.206957170041278
-  saturation: 0.805222091730684
-cta: {}
-layout_spectrum: 0.8900890725199133
-name: Cuisine
-opengraph: {}
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 0.7198402653448284
