@@ -1,7 +1,7 @@
 name: Cuisine
 favicon: null
-layout_spectrum: 0.08353616506792605
-typography_spectrum: 0.016969304997473955
+layout_spectrum: 0.8418687931261957
+typography_spectrum: 0.8310920807998627
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  brandStrength: 0.9519350782502443
-  lightness: 0.3893613340333104
-  saturation: 0.3960208192002028
-  rhythmicContrast: 0.191817234037444
+  brandStrength: 0.6978592467494309
+  lightness: 0.38226709980517626
+  saturation: 0.3971970865968615
+  rhythmicContrast: 0.3737804463598877
 purpose: []
