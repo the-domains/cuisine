@@ -27,3 +27,5 @@ color:
   saturation: 0.3971970865968615
   rhythmicContrast: 0.3737804463598877
 purpose: []
+coverPrefs:
+  filter: false
