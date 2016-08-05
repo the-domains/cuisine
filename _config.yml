@@ -17,7 +17,4 @@ color:
   rhythmicContrast: 0.3737804463598877
 purpose: []
 style: the-composer
-navigation:
-  - name: vbj
-    url: g
-    type: external
+navigation: []
