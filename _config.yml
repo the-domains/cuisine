@@ -1,9 +1,4 @@
-name: Cuisine
-layout_spectrum: 0.8418687931261957
 typography_spectrum: 0.26347039081156254
-cta: {}
-analytics: {}
-opengraph: {}
 color:
   brandColors:
     - '#FCFFF5'
@@ -15,9 +10,11 @@ color:
   lightness: 0.38226709980517626
   saturation: 0.3971970865968615
   rhythmicContrast: 0.3737804463598877
-purpose: []
+opengraph: {}
+layout_spectrum: 0.8418687931261957
+analytics: {}
+name: Cuisine
+cta: {}
 style: the-composer
-navigation:
-  - name: gvhbnjk
-    url: c
-    type: external
+navigation: []
+purpose: []
