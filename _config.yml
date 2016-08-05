@@ -1,20 +1,9 @@
 name: Cuisine
-favicon: null
 layout_spectrum: 0.8418687931261957
 typography_spectrum: 0.26347039081156254
-style: the-composer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+cta: {}
+analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#FCFFF5'
@@ -27,5 +16,8 @@ color:
   saturation: 0.3971970865968615
   rhythmicContrast: 0.3737804463598877
 purpose: []
-coverPrefs:
-  filter: false
+style: the-composer
+navigation:
+  - name: djd
+    url: dbdbd
+    type: external
