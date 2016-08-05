@@ -18,9 +18,6 @@ color:
 purpose: []
 style: the-composer
 navigation:
-  - name: a
-    url: g
-    type: external
   - name: vbj
     url: g
     type: external
