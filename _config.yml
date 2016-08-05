@@ -21,3 +21,6 @@ navigation:
   - name: a
     url: g
     type: external
+  - name: b
+    url: b
+    type: external
