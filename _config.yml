@@ -24,3 +24,6 @@ navigation:
   - name: b
     url: b
     type: external
+  - name: vbj
+    url: g
+    type: external
