@@ -27,3 +27,6 @@ navigation:
   - name: vbj
     url: g
     type: external
+  - name: vhgdc
+    url: h
+    type: external
