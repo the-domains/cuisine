@@ -23,10 +23,6 @@ description: Tasty things I cooked myself
 author: {}
 content_rating:
   adult: false
-navigation:
-  - name: Yogurt and Citrus
-    id: 0bf8386d-b206-41a1-a4ae-f1b25d933508
-    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
