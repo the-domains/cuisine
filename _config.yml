@@ -1,20 +1,70 @@
 name: Cuisine
-layout_spectrum: 0.8418687931261957
-typography_spectrum: 0.26347039081156254
+layout_spectrum: 0.3030349806564316
+typography_spectrum: 0.6494844017150158
 cta: {}
 analytics: {}
-opengraph: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.6978592467494309
-  lightness: 0.38226709980517626
-  saturation: 0.3971970865968615
-  rhythmicContrast: 0.3737804463598877
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.3257891388216268
+  lightness: 0.29147883682327325
+  saturation: 0.9101897777979364
+  rhythmicContrast: 0.7494879010858218
 purpose: []
-style: the-composer
-navigation: []
+title: Cuisine
+description: Tasty things I cooked myself
+author: {}
+content_rating:
+  adult: false
+navigation:
+  - name: Yogurt and Citrus
+    id: 0bf8386d-b206-41a1-a4ae-f1b25d933508
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FiY6uvi12y_g%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiY6uvi12y_g&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FiY6uvi12y_g%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=iY6uvi12y_g'
+      inLanguage: en
+      keywords:
+        - teppanyaki
+        - duration
+        - views
+        - chef
+        - tricks
+        - sousse
+        - benihana
+        - 85oztube
+        - sendai
+        - aden
+      title: Kobe's Teppanyaki Tricks
+      publisher:
+        name: YouTube
+        domain: www.youtube.com
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      author:
+        - name: URL Radio
+          url: 'https://www.youtube.com/user/URLradio'
+          avatar: {}
+      starred: false
+      description: Check out the Teppanyaki Show at Kobe's.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
