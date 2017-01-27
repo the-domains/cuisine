@@ -1,10 +1,10 @@
 ---
 author: []
-dateModified: '2017-01-27T11:37:19.087Z'
+dateModified: '2017-01-27T11:37:30.137Z'
 description: 'Once in Russia, I made a lavash wrap with a self-invented yoghurt dressing.'
 inFeed: true
 title: ''
-datePublished: '2017-01-27T11:37:19.189Z'
+datePublished: '2017-01-27T11:37:30.240Z'
 sourcePath: >-
   _posts/2016-07-20-once-in-russia-i-made-a-lavash-wrap-with-a-self-invented-yo.md
 hasPage: true
