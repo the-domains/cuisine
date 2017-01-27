@@ -1,14 +1,16 @@
 ---
-dateModified: '2016-03-17T08:23:04.889Z'
+dateModified: '2017-01-27T11:36:48.686Z'
+datePublished: '2017-01-27T11:36:50.822Z'
+description: ''
 hasPage: false
 inFeed: true
-inNav: false
-starred: false
-title: ' Veal tongue'
-datePublished: '2016-03-17T08:23:14.109Z'
+title: Veal tongue
 author: []
+publisher: {}
+via: {}
 sourcePath: _posts/2016-03-17-veal-tongue.md
-published: true
+starred: false
+datePublishedOriginal: '2016-03-17T08:23:14.109Z'
 _context: 'http://schema.org'
 _type: Article
 
